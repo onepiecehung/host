@@ -3,17 +3,17 @@
 
 //default config
 define('PAGEID', '1651406645106961');
-define('WEBURL', 'http://360anime.xyz');
+define('WEBURL', 'https://webhost360anime.herokuapp.com/');
 
 //mysql info
-$dbhost = 'https://databases.000webhost.com';
-$dbuser = 'id2101149_pagebyds';
-$dbpass = '01684657540';
-$dbname = 'id2101149_pagebyds';
+$dbhost = 'sql11.freemysqlhosting.net';
+$dbuser = 'sql11200726';
+$dbpass = 'KgMr6PFwrW';
+$dbname = 'sql11200726';
 
 //Facebook App
-$FacebookAppID = '496298947402103';
-$FacebookAppSecret = 'bf1ba70e89143328288972a5b02ee58b';
+$FacebookAppID = '287870548384316';
+$FacebookAppSecret = 'd7d376c694997280792554f9ab3ccd6f';
 
 //Google Api
 $GoogleApiKey = 'AIzaSyBYFTbEl-YiR_7NSfS4mOXRjiaNgUeG4qY';
