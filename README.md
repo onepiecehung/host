@@ -7,7 +7,9 @@ Link Protect v3.0.0 (Free) phiên bản giống anlink.top dành cho Page Facebo
 <br /><br />
 [Hướng dẫn]
 1. Vào developers.facebook.com và console.cloud.google.com để tạo/nhận App ID & App Secret (Facebook) và Short URL Api Key (Google)
-2. Import (Nhập) file Link Protect.sql vào phpmyadmin. Tiếp theo vào http://domain.com/install.php để cấu hình cho đúng với các dữ liệu.<br />
+2. Import (Nhập) file Link Protect.sql vào phpmyadmin. Tiếp theo vào http://domain.com/install.php để cấu hình cho đúng với các dữ liệu.
++ Mật khẩu truy cập file install.php: Dung Ki Thi Gay
+<br />
 3. Vào http://domain.com/_system/admin điền<br />
 Tài khoản: vynghia<br />
 Mật khẩu: nghiabestgay2k2<br />
