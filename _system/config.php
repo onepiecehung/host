@@ -3,7 +3,7 @@
 
 //default config
 define('PAGEID', '1651406645106961');
-define('WEBURL', 'https://webhost360anime.herokuapp.com/');
+define('WEBURL', 'https://video.360anime.net/');
 
 //mysql info
 $dbhost = 'sql11.freemysqlhosting.net';
